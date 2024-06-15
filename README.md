@@ -34,7 +34,7 @@ pip install brian2 numpy matplotlib
 ### 1. Hippocampal CA3 Region Model
 This notebook simulates a simplified version of the hippocampal CA3 region using spiking neural networks. The model includes both excitatory and inhibitory neurons, with synaptic plasticity based on STDP.
 
-[Link to Notebook](#)
+[notebooks/hippocampus_ca3.ipynb](#)
 
 ## Contributing
 
