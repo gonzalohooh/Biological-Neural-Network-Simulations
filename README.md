@@ -25,4 +25,29 @@ To run the notebooks in this repository, you need to have Python installed along
 You can install these packages using `pip`:
 
 ```bash
-pip install brian2 numpy matplotlib
+pip install brian2 numpy matplotlib```
+
+
+## Notebooks
+
+### Hippocampal CA3 Region Model
+This notebook simulates a simplified version of the hippocampal CA3 region using spiking neural networks. The model includes both excitatory and inhibitory neurons, with synaptic plasticity based on STDP.
+
+[Link to Notebook](#)
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, improvements, or new models to add, please create a pull request or open an issue.
+
+### Steps to Contribute
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature-branch`
+3. Make your changes and commit them: `git commit -m 'Add new feature'`
+4. Push to the branch: `git push origin feature-branch`
+5. Submit a pull request
+
+## License
+
+This repository is licensed under the MIT License. See the LICENSE file for more details.
+
